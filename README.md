@@ -29,4 +29,4 @@ This Power BI project provides an analytical view of sales, profit, and quantity
 
 ---
 
-### ✨ Created by: *Your Name*
+### ✨ Created by: *K.Harshini*
